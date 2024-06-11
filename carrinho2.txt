@@ -1,0 +1,4 @@
+Item: Qtd: Nome: Preço: SubTotal:
+1 1 Headphone 500.00 500.00
+2 2 Luvas 107.99 215.98
+Total: 715.98

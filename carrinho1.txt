@@ -1,0 +1,5 @@
+Item: Qtd: Nome: Preço: SubTotal:
+1 3 Computador 98313.00 294939.00
+2 15 Blusa 150.00 2250.00
+3 4 Bolacha 7.57 30.28
+Total: 297219.28
